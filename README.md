@@ -7,10 +7,10 @@ Tài liệu này được soạn với mục đích giới thiệu cho các em c
 
 Tài liệu bao gồm các phần:
 
-0. [Hướng dẫn cài đặt Python]
-1. [Các phép tính đơn giản, list, và objects]
-2. [Numpy, `for` và `if`, hàm trong Python]
-3. [Vẽ đồ thị bằng Python]
+0. [Hướng dẫn cài đặt Python](https://github.com/lmn93beo/MaSSP-Biology-2018/blob/master/Notebooks/Cai%20dat%20Python.ipynb)
+1. [Các phép tính đơn giản, list, và objects](https://github.com/lmn93beo/MaSSP-Biology-2018/blob/master/Notebooks/Gioi%20thieu%20ve%20Python.ipynb)
+2. [Numpy, `for` và `if`, hàm trong Python](https://github.com/lmn93beo/MaSSP-Biology-2018/blob/master/Notebooks/Gioi%20thieu%20Python%202.ipynb)
+3. [Vẽ đồ thị bằng Python](https://github.com/lmn93beo/MaSSP-Biology-2018/blob/master/Notebooks/Gioi%20thieu%20Python%203.ipynb)
 
 Chúc các em khám phá thích thú!!
 
