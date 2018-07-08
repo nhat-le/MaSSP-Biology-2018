@@ -11,6 +11,11 @@ Tài liệu bao gồm các phần:
 1. [Các phép tính đơn giản, list, và objects](https://github.com/lmn93beo/MaSSP-Biology-2018/blob/master/Notebooks/Gioi%20thieu%20ve%20Python.ipynb)
 2. [Numpy, `for` và `if`, hàm trong Python](https://github.com/lmn93beo/MaSSP-Biology-2018/blob/master/Notebooks/Gioi%20thieu%20Python%202.ipynb)
 3. [Vẽ đồ thị bằng Python](https://github.com/lmn93beo/MaSSP-Biology-2018/blob/master/Notebooks/Gioi%20thieu%20Python%203.ipynb)
+4. [Một số bài tập và áp dụng cho Sinh học](https://github.com/lmn93beo/MaSSP-Biology-2018/blob/master/Notebooks/Bai-tap-Python_massp2018.ipynb)
+
+[Đáp án](https://github.com/lmn93beo/MaSSP-Biology-2018/blob/master/Notebooks/Bai-tap-Python.ipynb)
 
 Chúc các em khám phá thích thú!!
+
+Nếu em muốn tìm hiểu thêm về Python và ứng dụng cho khoa học hay data science thì [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) của Jake VanderPlas là một tài liệu khá hay.
 
